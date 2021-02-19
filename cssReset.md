@@ -2,7 +2,7 @@
 
 / /  T E M P L A T E   [for]  Codefellows Assignments / /
 
-[Next Toic ==>](cssStyle.md) **style.css**
+[Next Topic ==>](cssStyle.md) **style.css**
 
 [<== Previous Topic](.md) **Codefellows README**
 
